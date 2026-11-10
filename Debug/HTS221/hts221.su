@@ -1,0 +1,7 @@
+../HTS221/hts221.c:33:16:read_regs	24	static
+../HTS221/hts221.c:49:16:write_regs	24	static
+../HTS221/hts221.c:65:16:round_x10	24	static
+../HTS221/hts221.c:75:6:hts221_register_callbacks	16	static
+../HTS221/hts221.c:81:9:hts221_init	40	static
+../HTS221/hts221.c:133:9:hts221_read_temperature	32	static
+../HTS221/hts221.c:164:9:hts221_read_humidity	32	static

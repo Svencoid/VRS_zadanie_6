@@ -1,0 +1,6 @@
+../LPS25HB/lps25hb.c:19:16:read_regs	24	static
+../LPS25HB/lps25hb.c:35:16:write_regs	24	static
+../LPS25HB/lps25hb.c:54:6:lps25hb_register_callbacks	16	static
+../LPS25HB/lps25hb.c:60:9:lps25hb_init	16	static
+../LPS25HB/lps25hb.c:86:9:lps25hb_read_pressure	24	static
+../LPS25HB/lps25hb.c:115:9:lps25hb_calc_relative_altitude_cm	32	static

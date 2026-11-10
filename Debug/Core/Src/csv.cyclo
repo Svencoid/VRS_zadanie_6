@@ -1,0 +1,2 @@
+../Core/Src/csv.c:6:12:format_fixed	4
+../Core/Src/csv.c:28:5:csv_format_line	1
